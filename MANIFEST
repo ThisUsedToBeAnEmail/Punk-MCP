@@ -99,5 +99,3 @@ t/pod.t
 xs/mcp.xs
 xt/bench-tool-call.t
 xt/boilerplate.t
-META.yml                                 Module YAML meta-data (added by MakeMaker)
-META.json                                Module JSON meta-data (added by MakeMaker)
